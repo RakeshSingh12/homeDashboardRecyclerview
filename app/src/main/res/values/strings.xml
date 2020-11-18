@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cashpot">Cashpot</string>
+    <string name="ticket_payouts">Ticket Payouts</string>
+    <string name="winning_numbers">Winning Numbers</string>
+    <string name="ticket_void">Tickets</string>
+    <string name="eod_report">End of the Day Report</string>
+    <string name="change_password">Change Password</string>
+    <string name="cash_pot">svl-ui/#/cashpot/cashpot</string>
+    <string name="ticket_pay">svl-ui/#/ticket-payout/ticket-payout</string>
+    <string name="ticket_pay_new">svl-ui/#/ticket-payout/ticket-payout-new</string>
+    <string name="winning_num">svl-ui/#/winning-numbers/winning-numbers</string>
+    <string name="ticket_voids">svl-ui/#/tickets-voids/tickets-voids</string>
+    <string name="eod_rep">svl-ui/#/reporting/eod-report</string>
+    <string name="change_pass">svl-ui/#/administration/change-password</string>
+    <string name="Please_click_again_to_exit">\Please click again to exit \</string>
+    <string name="total_withdraw">Total Withdraw</string>
+    <string name="total_deposit">Total Deposit</string>
+    <string name="valid_Dates">Please enter valid Dates</string>
+    <string name="pick_four">Pick 4</string>
+    <string name="pick4_url">svl-ui/#/games/pick4</string>
+    <string name="pick_three">Pick 3</string>
+    <string name="pick_two">Pick 2</string>
+    <string name="pick3_url">svl-ui/#/games/pick3</string>
+    <string name="pick2_url">svl-ui/#/games/pick2</string>
+    <string name="reference_no">Reference No.</string>
+</resources>
